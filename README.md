@@ -63,13 +63,13 @@ Watch a the bot in action on YouTube:
 to get the pr-ogram:
 
 - **Join our Teleggram Channel**:  
-  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/rootabrzibots)
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://tinyurl.com/33wsmpsk)
 
 - **Contact Support**:  
-  [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://t.me/abrzi505)
+  [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://tinyurl.com/yn36n592)
 
 - **Telegram Contact**:  
-  [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/abrzi505)
+  [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://tinyurl.com/yn36n592)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
