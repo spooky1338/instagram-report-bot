@@ -37,6 +37,8 @@ Watch a the bot in action on YouTube:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
 ## 📊 **Supported Repo-rt Types**  
 
 - **Sp-am**  
@@ -63,3 +65,13 @@ to get the pr-ogram:
   [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/abrzi505)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+**Legal Notice**
+
+```console
+I am not responsible for your actions.
+```
+
+----
