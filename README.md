@@ -23,7 +23,7 @@ Below is an example showcasing the tool’s powerful reporting capabilities, sen
 ## 📺 **Video Demonstration**  
 
 Watch a the bot in action on YouTube:  
-[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/-ClGnUHlt7Y?si=xumXLh-VQUeqH1Hj)  
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/4inWwqisKEM?si=-tHbesm2d1FdfRjn)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
