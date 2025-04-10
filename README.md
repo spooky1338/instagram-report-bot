@@ -1,6 +1,6 @@
 
-# Instagram report bot
-**The Ultimate Automated Instagram Reporting Solution**  
+# Instag-ram r-e-p-ort b-o-t
+**The Ultimate Automated Instagram Rep-orting Solution**  
 
 [![Version](https://img.shields.io/badge/version-6.0-blue)]()  
 [![License](https://img.shields.io/badge/root-abrzi-green)]()  
