@@ -1,10 +1,17 @@
-
-# Instag-ram r-e-p-ort b-o-t
-**The Ultimate Automated Instagram Rep-orting Solution**  
-
 [![Version](https://img.shields.io/badge/version-7.0-blue)]()  
 [![License](https://img.shields.io/badge/root-abrzi-green)]()  
 [![License](https://img.shields.io/badge/-⭐⭐⭐⭐-pink)]()
+
+<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+
+<img align="right" alt="count" src="https://count.getloli.com/get/@:?theme=booru-mjg">
+    
+<h1 align="center">INSTAGRAM REPORT BOT</h1>
+
+
+
+<p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -68,11 +75,15 @@ to get the pr-ogram:
 
 
 
+
+
+
+> [!CAUTION]
+> ```This tool is created for EDUCATIONAL PURPOSES ONLY. The creator is not responsible for any damage or misuse of this tool.```
+> 
+
 **Legal Notice**
 
 ```console
 I am not responsible for your actions.
 ```
-
-----
-> ⚠️ **This project is intended for educational and security research purposes only.**
