@@ -2,10 +2,8 @@
 # Instag-ram r-e-p-ort b-o-t
 **The Ultimate Automated Instagram Rep-orting Solution**  
 
-[![Version](https://img.shields.io/badge/version-6.0-blue)]()  
+[![Version](https://img.shields.io/badge/version-7.0-blue)]()  
 [![License](https://img.shields.io/badge/root-abrzi-green)]()  
-[![License](https://img.shields.io/badge/trusted-seller-pink)]()
-[![License](https://img.shields.io/badge/old-seller-pink)]()
 [![License](https://img.shields.io/badge/-⭐⭐⭐⭐-pink)]()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
