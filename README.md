@@ -75,3 +75,4 @@ I am not responsible for your actions.
 ```
 
 ----
+> ⚠️ **This project is intended for educational and security research purposes only.**
